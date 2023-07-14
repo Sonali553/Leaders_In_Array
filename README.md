@@ -7,11 +7,11 @@ Given an integer array A containing N distinct integers, you have to find all th
  Input
  A = [16, 17, 4, 3, 5, 2],
  
- Output
+ Output:
  [17, 2, 5]
 
  Input
  A = [5, 4],
  
- Output
+ Output:
  [5, 4]
